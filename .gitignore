@@ -1,0 +1,4 @@
+voice_profiles/*
+checkpoints/*
+data/*
+*.pt
